@@ -2,7 +2,7 @@
 
 vue-componentはvuejsとbulmaによる単一コンポーネントです。
 
-vue-componentは下記のバージョンにて使用しています。
+vue-componentは下記のバージョンで使用しています。
 
 vuejs：2.0
 
