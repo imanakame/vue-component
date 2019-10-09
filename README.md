@@ -1,16 +1,24 @@
-# 日本語
-## vue-componentについて
+# vue-componentについて
+
 vue-componentはvuejsとbulmaによる単一コンポーネントです。
-vue-componentは下記に依存します。
+vue-componentは下記のバージョンにて使用しています。
 vuejs：2.0
 bulma：v0.7.5
+laravel：5.8
 
-## vue-component
+# vue-componentの利用方法
 
 
 
 # english
-## about vue-component
+# about vue-component
 
+vue-component is single file component with vuejs and bulma.
+vue-component is used under below version.
 
+vuejs：2.0
+bulma：v0.7.5
+laravel：5.8
+
+# usage vue-component
 
